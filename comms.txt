@@ -1,0 +1,17 @@
+//c1: now we need to update our updateDisplay() and then also appendNumbers so that our calC can actually take inputs
+c2: now our buttons actually work when we press them but it takes just a single number at a time but we dont want that thats why we are gonna append numbers in the next step c2
+        c2Error: no output shown. Cuz we didnt put this.currentoperand = number on the appendnumber()
+        c2ErrorSOLVED
+c3: C2 er single number newar prob fix
+c4: This is about the period. "." before we could use couple of them but that didnt make sense so we just made if statement which will forbid the function to execute any further.
+    End of story: we can use just one .
+    c4Error: doesnt work. still we can use multiple periods
+    c4Fixed:took the if statement before the c3,
+    turns out js really executes    step by step
+c5: 123 er por jokhn +/-* use korbo tokhn oita upore chole jabe screen er
+    but: invisible hoye jabe
+
+c6: now we can see our previous number going up when choosing an operation
+    but: we cant get computation we use operations twice 
+    maane i meant j ager ans na peye forward korbe => null value hoye jabe
+                        
